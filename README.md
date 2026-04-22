@@ -12,7 +12,7 @@ I focus on writing **clean, maintainable, and scalable backend systems**, and I 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
 alt="computer illustration"
-width="300px"
+width="400"
 align="right">
 
 
