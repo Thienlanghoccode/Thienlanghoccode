@@ -63,12 +63,8 @@ align="right">
 ## Contribution Snake
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Thienlanghoccode/Thienlanghoccode/output/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Thienlanghoccode/Thienlanghoccode/output/pacman.svg">
-  <img alt="contribution graph"
-    src="https://raw.githubusercontent.com/Thienlanghoccode/Thienlanghoccode/output/pacman.svg">
-</picture>
+  <img
+    alt="contribution graph"
+    src="https://raw.githubusercontent.com/Thienlanghoccode/Thienlanghoccode/output/dist/pacman-contribution-graph.svg"
+    width="100%" />
 </p>
