@@ -65,10 +65,10 @@ align="right">
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Thienlanghoccode/Thienlanghoccode/output/dist/pacman-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/Thienlanghoccode/Thienlanghoccode/output/pacman-dark.svg">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Thienlanghoccode/Thienlanghoccode/output/dist/pacman-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/Thienlanghoccode/Thienlanghoccode/output/pacman.svg">
   <img alt="contribution graph"
-    src="https://raw.githubusercontent.com/Thienlanghoccode/Thienlanghoccode/output/dist/pacman-contribution-graph.svg">
+    src="https://raw.githubusercontent.com/Thienlanghoccode/Thienlanghoccode/output/pacman.svg">
 </picture>
 </p>
