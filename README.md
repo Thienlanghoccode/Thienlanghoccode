@@ -4,7 +4,7 @@
 
 ## About Me
 
-I’m a Backend Developer specializing in **Java and Spring Boot**, with over **6+ months of hands-on experience** building real-world applications.
+I’m a Backend Developer specializing in **Java and Spring Boot**, with over **1+ years of hands-on experience** building real-world applications.
 
 I focus on writing **clean, maintainable, and scalable backend systems**, and I enjoy designing APIs and services that are reliable and production-ready.
 
